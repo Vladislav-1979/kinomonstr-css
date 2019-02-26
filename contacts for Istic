@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="UTF-8">
+	<title>Photocentr отзывы</title>
+	<meta name="description" content="Фотоцентр - сфера услуг, товары "/>
+	<meta name="keywords" content="Фотоуслуги Печать фотографий — фото на документы, мгновенное фото, художественное фото, портфолио (художественная фотосессия), виньетки, услуги фотодизайна, широкоформатная печать, цифровая обработка фотографий, восстановление фотографий, металлокерамические овалы и таблички на памятники, изготовление фотокниг. Оцифровка и перезапись видео. Полиграфические услуги — цифровая высококачественная полиграфическая печать малотиражная до А3 формата, визитки, флаеры, буклеты, листовки, фото-календари, поздравительные и пригласительные открытки, сувенирная продукция: нанесение изображения (фото) на футболки, чашки, этикетки на бутылках, широкоформатная печать, печать на холсте Фототовары  Фотоаппараты (цифровые, пленочные), фотовспышки, объективы, штативы, фотопленка, фотобумага, элементы питания и зарядные устройства. Носители информации (карта памяти или флешкарта). Фото-аксессуары: фото-рамки, фотоальбомы, сумки и чехлы к фотоаппаратам. Фототехника для профессионалов (студийное фотооборудование) Рамы под заказ для картин, вышивок, фотографий, гобеленов, зеркал, икон, дипломов, грамот (более тысячи видов багета)  імідж вінниця, имидж винница, фотоцентр винница, фототовары винница, фото винница, фототовари вінниця" />
+	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
+</head>
+<body>
+
+	<div class="mine">
+		
+		<div class="header">
+			<div class="logo">
+				<div class="logo_img">
+					<a href="/"><img src="assets/img/imidg.png"></a>
+				</div>
+				<div class="logo_text">
+					<h2><span class="color_world">ф</span>ото<span class="color_world">ц</span>ентр</h2>
+					<h1>ИМИДЖ</h1>
+				</div>
+
+				<div class="menubar">
+					<ul class="menu">
+						<li><a href="index_2.html">Главная</a></li>
+						<li><a href="production.html">Продукция</a></li>
+						<li><a href="service.html">Услуги</a></li>
+						<li><a href="reviews.html">Отзывы</a></li>
+						<li class="selected"><a href="#">Контакты</a></li>
+					</ul>
+				</div>
+
+				
+
+				<div class="baner">
+					<p><img src="assets/img/contacts.jpg"></p>
+					<h2><font size="36px">Контакты</font></h2>
+				</div>
+
+				<div class="map">
+						<p><img src="assets/img/map_3.png"></p>
+				</div>
+				<div class="describle">
+				<h3>Оставте заявку</h3><br>
+				<h5>и наш менеджер свяжется с вами в ближайшее время</h5>
+				</div>
+
+		</div>
+
+		<div class="site_content">
+
+		<div class="adress">
+			<h3>Адрес</h3>
+			<p>г. Винница  ул. Замостянская 26<br>
+			(дом быта "Юбилейный" 2 этаж)</p><br>
+			<h3>Телефон</h3>
+			<p>0432 277 704</p><br>
+			<h3>E-mail</h3>
+			<p>imidge@gmail.com</p><br>
+			<h3>Режим работы</h3>
+			<p>с ПН-ПТ с 8:30 до 20:00<br>
+				Сб с 8:30 до 18:00
+			</p>
+		</div> 
+		
+			<div class="contact">
+						
+				<div class="revi">
+
+					<div class="send_2">
+						<form method="post" action="#" id="revi">
+							<input type="text" name="revi_name" placeholder="Ваше имя">
+							<input type="text" name="revi_name" placeholder="Ваш номер телефона">
+							<input type="text" name="revi_name" placeholder="Ваш e-mail">
+							<input type="text" name="revi_name" placeholder="Прикрепить файл">
+							<textarea name="revi_text"></textarea>
+							<input class="btn_2" type="submit" value="Отправить">
+						</form>
+					</div>
+
+				</div>	
+
+					
+					<div class="posts">
+					
+			</div>
+					
+		</div>
+
+	</div>
+
+
+
+	<div class="footer">
+		<p>
+			<a href="index_2.html">Главная</a> |
+			<a href="production.html">Продукция</a> |
+			<a href="service.html">Услуги</a></li> |
+			<a href="reviews.html">Отзывы</a> |
+			<a href="#">Контакты</a>
+		</p>
+		<p><font size="2px">&copy; IMIDGE.vn.ua 2019</p>
+
+	</div>
+	
+</body>
+</html>
